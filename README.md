@@ -69,10 +69,3 @@ Ensure you have the following installed and ready:
 
 ---
 
-## Setup
-
-### Clone the Repository
-
-```sh
-git clone https://github.com/aashish-dhiman/E-Commerce.git
-cd E-Commerce
